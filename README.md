@@ -9,4 +9,4 @@ Student at IU (Iqra University)
 - ⚡ Currently exploring Java framework Spring Boot.
 
 
-- 📫 Let's connect: ( https://www.linkedin.com/in/muhammad-hussain-shad-006979348/ )
+- 📫 Let's connect: https://www.linkedin.com/in/muhammad-hussain-shad-006979348/
